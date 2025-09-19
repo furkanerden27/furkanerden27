@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Furkan ERDEN. I am freshman at Bilkent University Computer Science Department. 
 
 <!--
 **furkanerden27/furkanerden27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
